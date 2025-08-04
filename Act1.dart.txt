@@ -1,0 +1,8 @@
+void main() {
+  var greeting = "Welcome";
+  dynamic user = "Alice";
+  user = 25;
+  
+  print("$greeting,  $user!");   
+} 
+// I think is about the value, because the value are not same with the other one.
